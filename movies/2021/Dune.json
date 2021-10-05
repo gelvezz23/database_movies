@@ -1,0 +1,15 @@
+{
+    "name": "Dune",
+    "year": 2021,
+    "runtime": 154,
+    "categories": ["Aventure", "Actions", "Drama"],
+    "release-date": "2021-09-15",
+    "director": ["Denis Villeneuve"],
+    "writer": ["Denis Villeneuve","Jon Spaihts","Eric Roth"],
+    "actors": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Zendaya"
+    ],
+    "storyline": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy."
+  }
