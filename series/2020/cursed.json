@@ -1,0 +1,20 @@
+{
+  "name": "Cursed",
+  "year": 2021,
+  "runtime": 60,
+  "categories": ["Adventure", "Drama", "Fantasy"],
+  "release-date": "2021-06-17",
+  "director": ["Zetna Fuentes"],
+  "writer": ["Tom Wheeler", "Frank Miller"],
+  "actors": [
+    "Katherine Langford",
+    "Devon Terrell",
+    "Gustaf Skarsgård",
+    "Peter Mullan",
+    "Lily Newmark",
+    "Shalom Brune-Franklin",
+    "Daniel Sharman",
+    "Sebastian Armesto"
+  ],
+  "storyline": "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
+}

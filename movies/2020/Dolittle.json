@@ -1,0 +1,17 @@
+  
+{
+	"name": "Dolittle",
+	"year": 2020,
+	"runtime": 130,
+	"categories": ["Acción", "comedia"],
+	"release-date": "2020-01-17",
+	"director": ["Stephen Gaghan"],
+	"writer": ["Stephen Gaghan","Dan Gregor"],
+	"actors": [
+		"Robert Downey Jr.",
+"Antonio Banderas",
+"Michael Sheen",
+"Jim Broadbent"
+	],
+	"storyline": "El Dr. John Dolittle vive solo detrás de los muros de su exuberante mansión en la Inglaterra del siglo XIX. Su única compañía proviene de una variedad de animales exóticos con los que habla a diario."
+}

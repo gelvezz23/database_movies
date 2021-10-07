@@ -1,0 +1,19 @@
+{
+	"name": "Birds of Prey",
+	"year": 2020,
+	"runtime": 120,
+	"categories": [" Action", "Adventure", "Crime"],
+	"release-date": "2020-01-29",
+	"director": ["Cathy Yan"],
+	"writer": ["Christina Hodson", "Paul Dini "],
+	"actors": [
+		"Margot Robbie",
+		"Rosie Perez",
+		"T.J. Miller",
+		"Mary Elizabeth Winstead",
+		"Jurnee Smollett",
+		"Ewan McGregor",
+		"Ella Jay Basco"
+	],
+	"storyline": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord."
+ }

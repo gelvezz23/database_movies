@@ -1,0 +1,17 @@
+  
+{
+	"name": "Monster Hunter",
+	"year": 2020,
+	"runtime": 130,
+	"categories": ["Acción", "SiFi"],
+	"release-date": "2020-02-14",
+	"director": ["Paul W.S. Anderson"],
+	"writer": ["Kaname Fujioka","Paul W.S. Anderson"],
+	"actors": [
+		"Milla Jovovich",
+"Tony Jaa",
+"Ron Perlman",
+"Diego Boneta"
+	],
+	"storyline": "Cuando una teniente y sus leales soldados son transportados a un nuevo mundo, entablan una batalla desesperada por la supervivencia contra enormes enemigos con poderes increíbles. Película basada en el videojuego de Capcom."
+}

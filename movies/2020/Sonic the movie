@@ -1,0 +1,21 @@
+{
+	"name": "Sonic the Movie",
+	"year": 2020,
+	"runtime": 140,
+	"categories": ["Action", "Adventure", "Science fiction"],
+	"release-date": "2020-02-14",
+	"director": ["Jeff Fowler"],
+	"writer": ["Chris Bremner"],
+	"actors": [
+		"Will Smith",
+		"Martin Lawrence",
+		"Vanessa Hudgens",
+		"Alexander Ludwig",
+		"Charles Melton",
+		"Paola Núñez",
+		"Kate del Castillo",
+		"Nicky Jam",
+		"Joe Pantoliano"
+	],
+	"storyline": "The Miami Police Department and its elite AMMO team attempt to take down Armando Aretas, the head of a drug cartel. Armando is a cold-blooded assassin with a vicious and polluting nature. He is engaged in cartel work and is sent by his mother, Isabel, to kill Mike. Due to a dark secret that he has had all these years."
+}

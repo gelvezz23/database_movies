@@ -1,0 +1,15 @@
+{
+    "name": "Kaamelot",
+    "year": 2021,
+    "runtime": 120,
+    "categories": ["Aventure", "Comedy", "Fantasy"],
+    "release-date": "2021-07-15",
+    "director": ["Alexandre Astier"],
+    "writer": ["Alexandre Astier"],
+    "actors": [
+        "Alexandre Astier",
+        "Lionnel Astier",
+        "Antoine de Caunes"
+    ],
+    "storyline": "The sequel on the big screen to the cult series of Alexandre Astier, an offbeat version of the legend of the Knights of the Round Table. Hidden in Rome, King Arthur plans his comeback to oppose the army of his former friend Lancelot."
+  }

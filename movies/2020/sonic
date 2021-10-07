@@ -1,0 +1,16 @@
+{
+	"name": "Sonic",
+	"year": 2020,
+	"runtime": 99,
+	"categories": ["Acción", "comedia"],
+	"release-date": "2020-02-14",
+	"director": ["Jeff Fowler"],
+	"writer": ["Patrick Casey","Josh Miller"],
+	"actors": [
+		"Jim Carrey",
+"Ben Schwartz",
+"Tika Sumpter",
+"James Marsden"
+	],
+	"storyline": "Sonic es un pequeño erizo antropomórfico azul proveniente del planeta Mobius que puede correr a velocidades supersónicas. Su cuidadora, Garra Larga la búho, lo alienta a ocultar sus poderes, pero Sonic no le toma importancia a su advertencia, lo que resulta en la invasión de una tribu de equidnas salvajes que intentan secuestrarlo"
+}
