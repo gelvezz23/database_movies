@@ -1,0 +1,21 @@
+{
+  "name": "El Camino: A Breaking Bad Movie",
+  "year": 2019,
+  "runtime": 122 min,
+  "categories": [
+    "Action",
+    "Drama",
+  ],
+  "release-date": "2019-10-11",
+  "director": "Vince Gilligan",
+  "writer": [
+    "Vince Gilligan"
+  ],
+  "actors": [
+    "Aaron Paul	Aaron Paul	...	Jesse",
+    "Jonathan Banks	Jonathan Banks	...	Mike",
+    "Matt Jones	Matt Jones	...	Badger",
+  	"Charles Baker	Charles Baker	...	Skinny Pete"
+  ],
+  "storyline": "A sequel, of sorts, to Breaking Bad following Jesse Pinkman after the events captured in the finale of Breaking Bad. Jesse is now on the run, as a massive police manhunt for him is in operation. He has a plan to get out of Albuquerque, but he'll need heaps of cash to do it. Luckily, he knows where some may be stashed."
+}
