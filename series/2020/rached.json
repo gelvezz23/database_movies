@@ -1,0 +1,21 @@
+{
+  "name": "Ratched",
+  "year": 2020,
+  "runtime": 60,
+  "episodes": 8,
+  "seasons": 1,
+  "categories": ["Drama", "scary"],
+  "release-date": "2021-09-01",
+  "director": ["Evan Romansky"],
+  "writer": ["Ken Kesey"],
+  "actors": [
+    "Sarah Paulson",
+    "Finn Wittrock",
+    "Cynthia Nixon",
+    "Jon Jon Briones",
+    "Charlie Carver",
+    "Judy Davis",
+    "Sharon Stone"
+  ],
+  "storyline": "Ratched is a suspense drama series that tells the origin story of nursing home nurse Mildred Ratched. In 1947, Mildred arrives in Northern California to seek employment at a major psychiatric hospital where new and disturbing experiments on the human mind have been started."
+}
