@@ -1,0 +1,22 @@
+{
+  "name": "Pokémon: Detective Pikachu",
+  "year": 2019,
+  "runtime": 104,
+  "categories": [
+    "fantasia",
+    "accion",
+    "ciencia ficcion"
+  ],
+  "release-date": "2019-05-10",
+  "director": "Rob Letterman",
+  "writer": [
+    "Mary Parent",
+
+  ],
+  "actors": [
+    "Ryan Reynolds",
+    "Justice Smith",
+    "Ken Watanabe"
+  ],
+  "storyline": "Tim Goodman is a 21-year-old insurance salesman who has abandoned Pokémon training due to the death of his mother and the absence of his father, Harry."
+}
