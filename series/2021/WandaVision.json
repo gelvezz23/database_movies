@@ -1,0 +1,21 @@
+{
+  "name": "Wanda Vision",
+  "year": 2021,
+  "runtime": 250,
+  "categories": ["Action", "SCI-FI"],
+  "release-date": "2021-01-15",
+  "director": ["Matt Shakman"],
+  "writer": ["Tim Roche"],
+  "actors": [
+    "	Elizabeth Olsen",
+    "Paul Bettany",
+    "Debra Jo Rupp",
+    "Fred Melamed",
+    "Kathryn Hahn",
+    "Teyonah Parris",
+    "Randall Park",
+    "Kat Dennings",
+    "Evan Peters"
+  ],
+  "storyline": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems."
+}
