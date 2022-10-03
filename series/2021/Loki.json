@@ -1,0 +1,31 @@
+{
+  "name": "Loki",
+  "year": 2021,
+  "runtime": 127,
+  "categories": [
+    "adventure",
+    "crime",
+    "sci-fi",
+    "superhero"
+  ],
+  "release-date": "2021-06-9",
+  "director": "Kate Herron",
+  "writer": [
+    "	Michael Waldron"
+  ],
+  "actors": [
+     "Tom Hiddleston",
+     "Gugu Mbatha-Raw",
+     "Wunmi Mosaku",
+     "Eugene Cordero",
+     "Tara Strong",
+     "Owen Wilson",
+     "Sophia Di Martino",
+     "Sasha Lane",
+     "Jack Veal",
+     "DeObia Oparei",
+     "Richard E. Grant",
+     "Jonathan Majors"
+  ],
+  "storyline": "Loki, the God of Lies, steps out of his brother's shadow to embark on an adventure that takes place after the events of "Avengers: Endgame.""
+}
