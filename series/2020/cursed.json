@@ -2,6 +2,7 @@
   "name": "Cursed",
   "year": 2021,
   "runtime": 60,
+  "episodes": 10,
   "categories": ["Adventure", "Drama", "Fantasy"],
   "release-date": "2021-06-17",
   "director": ["Zetna Fuentes"],
