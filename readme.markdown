@@ -58,29 +58,27 @@ Storyline | Brief description of the movie
 
 ```json
 {
-  "name": "Invencible",
-  "year": 2021,
+  "name": "The Sandman",
+  "year": 2022,
   "runtime": 127,
-  "episode": 8,
+  "episode": 11,
   "season": 1,
-  "categories": [
-    "Animation",
-    "Image Comics",
-    "sci-fi"
+  "categories": ["Drama", "Image Comics", "Fancy", "Teror"],
+  "release-date": "2022-08-05",
+  "director": ["Allan Heinberg"],
+  "writer": ["Neil Gaiman"],
+  "actors": [
+    "Tom Sturridge",
+    "Gwendoline Christie",
+    "Vivienne Acheampong",
+    "Boyd Holbrook",
+    "Charles Dance",
+    "Asim Chaudhry",
+    "Sanjeev Bhaskar"
   ],
-  "release-date": "2021-03-25",
-  "director": "Robert Kirkman",
-  "writer": [
-    "Robert Kirkman",
-    "Cory Walker"
-  ],
-  "actors": [	
-    "Steven Yeun",
-    "Sandra Oh",
-    "J.K. Simmons"
-  ],
-  "storyline": "Mark Grayson is a normal teenager, except for the fact that his father Nolan is Omni-man, the strongest superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop his own powers and enters his father's tutelage. As Mark uses his powers for good, he discovers that his father's legacy may not be as heroic as it seems."
+  "storyline": "A wizard attempting to capture Death to bargain for eternal life traps her younger brother Dream instead. Fearful for his safety, the wizard kept him imprisoned in a glass bottle for decades. After his escape, Dream, also known as Morpheus, goes on a quest for his lost objects of power."
 }
+
 ```
 ## Contributing
 
