@@ -1,0 +1,21 @@
+{
+	"name": "Hocus Pocus 2",
+	"year": 2022,
+	"runtime": 107,
+	"categories": ["Fantasy", "Comedy", "Family"],
+	"release-date": "2022-09-30",
+	"director": ["Anne Fletcher"],
+	"writer": ["David Kirschner, Blake Harris, Jen D'Angelo"],
+	"actors": [
+		"Aiden Torres",
+		"Amanda Shepherd",
+		"Belissa Escobedo",
+		"Bette Midler",
+		"David Torres Jr.",
+		"Doug Jones",
+		"Emma Kaufman",
+        "Froy Gutierrez",
+		"Ginger Minj"
+	],
+	"storyline": "It's been 29 years since someone lit the black flame candle resurrecting the 17th century Sanderson sisters, and now they want revenge. It will be up to three high school students to stop the voracious witches from wreaking havoc in Salem on Halloween night"
+}
