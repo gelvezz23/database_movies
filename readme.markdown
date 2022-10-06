@@ -53,6 +53,35 @@ Storyline | Brief description of the movie
   "storyline": "Huge advancements in scientific technology have enabled a mogul ... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
 }
 ```
+
+#### Example Series File
+
+```json
+{
+  "name": "Invencible",
+  "year": 2021,
+  "runtime": 127,
+  "episode": 8,
+  "season": 1,
+  "categories": [
+    "Animation",
+    "Image Comics",
+    "sci-fi"
+  ],
+  "release-date": "2021-03-25",
+  "director": "Robert Kirkman",
+  "writer": [
+    "Robert Kirkman",
+    "Cory Walker"
+  ],
+  "actors": [	
+    "Steven Yeun",
+    "Sandra Oh",
+    "J.K. Simmons"
+  ],
+  "storyline": "Mark Grayson is a normal teenager, except for the fact that his father Nolan is Omni-man, the strongest superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop his own powers and enters his father's tutelage. As Mark uses his powers for good, he discovers that his father's legacy may not be as heroic as it seems."
+}
+```
 ## Contributing
 
 Check [Contributing Guide](contributing.markdown) for further instructions.
