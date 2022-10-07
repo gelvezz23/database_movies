@@ -53,6 +53,33 @@ Storyline | Brief description of the movie
   "storyline": "Huge advancements in scientific technology have enabled a mogul ... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
 }
 ```
+
+#### Example Series File
+
+```json
+{
+  "name": "The Sandman",
+  "year": 2022,
+  "runtime": 127,
+  "episode": 11,
+  "season": 1,
+  "categories": ["Drama", "Image Comics", "Fancy", "Teror"],
+  "release-date": "2022-08-05",
+  "director": ["Allan Heinberg"],
+  "writer": ["Neil Gaiman"],
+  "actors": [
+    "Tom Sturridge",
+    "Gwendoline Christie",
+    "Vivienne Acheampong",
+    "Boyd Holbrook",
+    "Charles Dance",
+    "Asim Chaudhry",
+    "Sanjeev Bhaskar"
+  ],
+  "storyline": "A wizard attempting to capture Death to bargain for eternal life traps her younger brother Dream instead. Fearful for his safety, the wizard kept him imprisoned in a glass bottle for decades. After his escape, Dream, also known as Morpheus, goes on a quest for his lost objects of power."
+}
+
+```
 ## Contributing
 
 Check [Contributing Guide](contributing.markdown) for further instructions.
