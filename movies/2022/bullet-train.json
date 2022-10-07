@@ -1,0 +1,21 @@
+{
+	"name": "Bullet Train",
+	"year": 2022,
+	"runtime": 127,
+	"categories": ["Action", "Comedy", "Suspense"],
+	"release-date": "2022-08-12",
+	"director": ["David Leitch"],
+	"writer": ["Kôtarô Isaka, Zak Olkewicz"],
+	"actors": [
+		"Brad Pitt",
+		"Joey King",
+		"Aaron Taylor-Johnson",
+		"Brian Tyree Henry",
+		"Andrew Koji",
+		"Hiroyuki Sanada",
+		"Michael Shannon",
+        "Sandra Bullock",
+		"Bad Bunny"
+	],
+	"storyline": "Five contract killers find themselves aboard a bullet train traveling from Tokyo to Morioka with a few stops in between. The question is who will make it off the train alive and what awaits them at the final station"
+}

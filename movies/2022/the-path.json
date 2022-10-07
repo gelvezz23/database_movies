@@ -1,0 +1,21 @@
+{
+	"name": "Der Pfad",
+	"year": 2022,
+	"runtime": 100,
+	"categories": ["Adventure", "History", "Family"],
+	"release-date": "2022-02-17",
+	"director": ["Tobias Wiemann"],
+	"writer": ["Rüdiger Bertram, Jytte-Merle, Böhrnsen"],
+	"actors": [
+		"Julius Weckauf",
+		"Nonna Cardoner",
+		"Volker Bruch",
+		"David Bredin",
+		"Jytte-Merle Böhrnsen",
+		"Ettore Colombo",
+		"Bruna Cusí",
+        "Clàudia Font",
+		"J. David Hinze"
+	],
+	"storyline": "On the run from the Nazis, two children, a journalist father and a dog must make their way through the dangerous Pyrenees mountain range"
+}
