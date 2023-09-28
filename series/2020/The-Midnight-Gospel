@@ -1,0 +1,27 @@
+{
+  "name": "The Midnight Gospel",
+  "year": 2020,
+  "runtime": 36,
+  "episodes": 8,
+  "seasons": 1,
+  "categories": ["Animation",
+"Surrealism",
+"Fantasy science fiction",
+"Adventure",
+"Black mood"],
+  "release-date": "2020-04-20",
+  "director": ["Shannon Prynoski"],
+  "writer": ["Pendleton Ward",
+"Duncan Trussell",
+"Mike L. Mayfield"],
+  "actors": [
+    "Duncan Trussell ",
+    "Phil Hendrie",
+    "Stephen Root",
+    "Maria Bamford",
+    "Doug Lussenhop",
+    "Joey Diaz"
+    
+  ],
+  "storyline": "The Midnight Gospel revolves around a spacecaster named Clancy Gilroy, who lives on the Chromatic Ribbon, a membranous, tape-like planet situated in the middle of a colorful void where simulation farmers use powerful bio-organic computers to simulate a variety of universes from which they harvest natural resources and new technology."
+}
