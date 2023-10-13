@@ -1,0 +1,29 @@
+{
+  "name": "Fast & Furious 10",
+  "year": 2023,
+  "runtime": 141,
+  "categories": ["action", "thriller", "fantasy", "racing"],
+  "release-date": "2023-05-12",
+  "director": "Louis Leterrier",
+  "writer": ["Dan Mazeau", "Justin Lin", "Zach Dean"],
+  "actors": [
+    "Vin Diesel",
+    "Michelle Rodriguez",
+    "Tyrese Gibson",
+    "Chris Ludacris Bridges",
+    "John Cena",
+    "Nathalie Emmanuel",
+    "Jordana Brewster",
+    "Sung Kang",
+    "Scott Eastwood",
+    "Daniela Melchior",
+    "Alan Ritchson",
+    "Helen Mirren",
+    "Brie Larson",
+    "Rita Moreno",
+    "Jason Statham",
+    "Jason Momoa",
+    "Charlize Theron"
+  ],
+  "storyline": "Dominic Toretto and his team are requested by the Agency to steal a computer chip during its transit in Rome, Italy. Dom and his wife Letty Ortiz stay behind with his son Brian 'Little B' Marcos, while the rest of the team, consisting of Roman Pearce, Tej Parker, Han Lue, and Ramsey, travels to Rome"
+}
