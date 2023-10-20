@@ -2,21 +2,10 @@
   "name": "A Dog's Journey",
   "year": 2019,
   "runtime": 100,
-  "categories": [
-    "comedia",
-    "familiar",
-    "aventura"
-  ],
+  "categories": ["comedia", "familiar", "aventura"],
   "release-date": "2019-05-13",
   "director": "Gail Mancuso",
-  "writer": [
-    "Gavin Polone",
-
-  ],
-  "actors": [
-    "Josh Gad",
-    "Dennis Quaid",
-    "Marg Helgenberger"
-  ],
+  "writer": ["Gavin Polone"],
+  "actors": ["Josh Gad", "Dennis Quaid", "Marg Helgenberger"],
   "storyline": "A dog finds the meaning of his own existence through the lives of the humans he meets."
 }

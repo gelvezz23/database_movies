@@ -1,16 +1,16 @@
 {
-	"name": "Enola Holmes",
-	"year": 2020,
-	"runtime": 123,
-	"categories": [],
-	"release-date": "2020-09-23",
-	"director": ["Harry Bradbeer"],
-	"writer": ["Nancy Springer"],
-	"actors": [
-		"Millie Bobby Brown",
-        "Sam Claflin",
-        "Henry Cavill",
-        "Helena Bonham Carter",
-	],
-	"storyline": "Enola Holmes is the youngest sibling in the famous Holmes family. She is extremely intelligent, observant, and insightful, and defies the social norms for women of the time. Her mother, Eudoria, has taught her everything from chess to jujitsu and encouraged her to be a strong-willed, and independent thinking young woman."
+  "name": "Enola Holmes",
+  "year": 2020,
+  "runtime": 123,
+  "categories": [],
+  "release-date": "2020-09-23",
+  "director": ["Harry Bradbeer"],
+  "writer": ["Nancy Springer"],
+  "actors": [
+    "Millie Bobby Brown",
+    "Sam Claflin",
+    "Henry Cavill",
+    "Helena Bonham Carter"
+  ],
+  "storyline": "Enola Holmes is the youngest sibling in the famous Holmes family. She is extremely intelligent, observant, and insightful, and defies the social norms for women of the time. Her mother, Eudoria, has taught her everything from chess to jujitsu and encouraged her to be a strong-willed, and independent thinking young woman."
 }
