@@ -1,0 +1,25 @@
+{
+  "name": "Oppenheimer",
+  "year": 2023,
+  "runtime": 175,
+  "categories": ["biography", "drama", "history", "thriller"],
+  "release-date": "2023-07-21",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "actors": [
+    "Cillian Murphy",
+    "Emily Blunt",
+    "Matt Damon",
+    "Robert Downey Jr.",
+    "Florence Pugh",
+    "Rami Malek",
+    "Josh Hartnett",
+    "Kenneth Branagh",
+    "Dane DeHaan",
+    "Jack Quaid",
+    "Matthew Modine",
+    "Casey Affleck",
+    "Gary Oldman"
+  ],
+  "storyline": "A biopic of J. Robert Oppenheimer, the physicist who led the Manhattan Project to develop the atomic bomb."
+}
