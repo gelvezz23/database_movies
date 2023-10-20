@@ -1,0 +1,25 @@
+{
+  "name": "Barbie",
+  "year": 2023,
+  "runtime": 115,
+  "categories": ["comedy", "family", "fantasy"],
+  "release-date": "2023-07-21",
+  "director": "Greta Gerwig",
+  "writer": "Greta Gerwig",
+  "actors": [
+    "Margot Robbie",
+    "Ryan Gosling",
+    "Kate McKinnon",
+    "America Ferrera",
+    "Simu Liu",
+    "Will Ferrell",
+    "Emma Mackey",
+    "Ncuti Gatwa",
+    "Issa Rae",
+    "Michael Cera",
+    "Hari Nef",
+    "Kingsley Ben-Adir",
+    "Rhea Perlman"
+  ],
+  "storyline": "A live-action film based on the popular Barbie doll."
+}
