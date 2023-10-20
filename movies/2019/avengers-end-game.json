@@ -2,20 +2,12 @@
   "name": "Avengers: Endgame",
   "year": 2019,
   "runtime": 181,
-  "categories": [
-    "action",
-    "thriller",
-    "sci-fi",
-	"superhero"
-  ],
+  "categories": ["action", "thriller", "sci-fi", "superhero"],
   "release-date": "2019-04-22",
   "director": "Anthony and Joe Russo",
-  "writer": [
-    "Christopher Markus",
-    "Stephen McFeely"
-  ],
+  "writer": ["Christopher Markus", "Stephen McFeely"],
   "actors": [
-    "Robert Downey Jr."
+    "Robert Downey Jr.",
     "Chris Evans",
     "Mark Ruffalo",
     "Chris Hemsworth",

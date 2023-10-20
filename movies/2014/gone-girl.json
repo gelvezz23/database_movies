@@ -2,21 +2,15 @@
   "name": "Gone Girl",
   "year": 2014,
   "runtime": 149,
-  "categories": [
-    "Thriller",
-    "Drama",
-    "Mistery"
-  ],
+  "categories": ["Thriller", "Drama", "Mistery"],
   "release-date": "2014-09-26",
   "director": "David Fincher",
-  "writer": [
-    "Gillian Flynn"
-  ],
+  "writer": ["Gillian Flynn"],
   "actors": [
-    "Ben Affleck"
+    "Ben Affleck",
     "Rosamund Pike",
     "Neil Patrick Harris",
     "Tyler Perry"
-   ],
+  ],
   "storyline": "Nick and Amy Dunne are a couple living in a small town in Missouri. Nick calls the authorities when she goes missing but something is off about his behavior. Is he hiding something? Is he sad or distraught enough? While the police continue their investigation, Nick is battling a media frenzy and the people who believe his innocence is dwindling by the minute."
 }

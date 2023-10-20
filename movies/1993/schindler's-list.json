@@ -2,18 +2,12 @@
   "name": "Schindler's List",
   "year": 1993,
   "runtime": 195,
-  "categories": [
-    "Biography",
-    "Drama",
-    "History"
-  ],
+  "categories": ["Biography", "Drama", "History"],
   "release-date": "1993-30-11",
   "director": "Steven Spielberg",
-  "writer": [
-    "Steven Zaillian"
-  ],
+  "writer": ["Steven Zaillian"],
   "actors": [
-    "Liam Neeson"
+    "Liam Neeson",
     "Ben Kingsley",
     "Ralph Fiennes",
     "Caroline Goodall",

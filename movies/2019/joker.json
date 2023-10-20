@@ -2,21 +2,10 @@
   "name": "Joker",
   "year": 2019,
   "runtime": 123,
-  "categories": [
-    "drama",
-    "suspenso",
-    "policiaco"
-  ],
+  "categories": ["drama", "suspenso", "policiaco"],
   "release-date": "2019-08-31",
   "director": "Todd Phillips",
-  "writer": [
-    "Todd Phillips",
-   
-  ],
-  "actors": [
-    "Joaquin Phoenix",
-    "Robert De Niro",
-    "Zazie Beetz"
-  ],
+  "writer": ["Todd Phillips"],
+  "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
   "storyline": "In 1981, a failed comedian, Arthur Fleck, ignored by the society in which he lives, becomes a genius of crime and chaos in Gotham City."
 }
