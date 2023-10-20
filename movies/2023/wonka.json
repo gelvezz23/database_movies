@@ -1,0 +1,22 @@
+{
+  "name": "Wonka",
+  "year": 2023,
+  "runtime": 108,
+  "categories": ["comedy", "fantasy", "family"],
+  "release-date": "2023-12-15",
+  "director": "Paul King",
+  "writer": "Simon Rich",
+  "actors": [
+    "Timothée Chalamet",
+    "Olivia Colman",
+    "Sally Hawkins",
+    "Keegan-Michael Key",
+    "Simon Farnaby",
+    "Kobna Holdbrook-Smith",
+    "Mathew Baynton",
+    "Jim Carter",
+    "Rich Fulcher",
+    "Rowan Atkinson"
+  ],
+  "storyline": "A young Willy Wonka and his adventures before he opened his chocolate factory."
+}
