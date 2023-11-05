@@ -1,0 +1,25 @@
+{
+    "name": "Creed III",
+    "year": 2023,
+    "runtime": 116,
+    "categories": ["action", "thriller", "fantasy", "racing"],
+    "release-date": "2023-03-03",
+    "director": "Michael B. Jordan",
+    "writer": ["Zach Baylin", "Keenan Coogler"],
+    "actors": [
+      "Michael B. Jordan",
+      "Thaddeus J. Mixon",
+      "Tessa Thompson",
+      "Jonathan Majors",
+      "Spence Moore II ",
+      "Wood Harris",
+      "Mila Davis-Kent",
+      "Florian Munteanu",
+      "Phylicia Rashad",
+      "Jose Benavidez Jr",
+      "Selenis Leyva",
+      "Anthony Bellew",
+      "Canelo Alvarez"
+    ],
+    "storyline": "Adonis Creed, still dominating the boxing world, is thriving in his career and family life, but a childhood friend and former boxing prodigy reappears after being released from prison and is eager to prove he deserves another chance."
+  }
