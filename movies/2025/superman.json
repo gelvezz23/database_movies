@@ -1,0 +1,23 @@
+{
+  "name": "Superman",
+  "year": 2025,
+  "runtime": 129,
+  "categories": ["superhero", "action", "adventure"],
+  "release-date": "2025-07-11",
+  "director": "James Gunn",
+  "writer": "James Gunn",
+  "actors": [
+    "David Corenswet",
+    "Rachel Brosnahan",
+    "Nicholas Hoult",
+    "Edi Gathegi",
+    "Anthony Carrigan",
+    "Nathan Fillion",
+    "Isabela Merced",
+    "María Gabriela de Faría",
+    "Sara Sampaio",
+    "Skyler Gisondo",
+    "Milly Alcock"
+  ],
+  "storyline": "La película se enfoca en el viaje de Clark Kent para reconciliar su herencia kryptoniana con su crianza humana. El protagonista se enfrenta a las consecuencias de su intervención en un conflicto internacional provocado por el empresario Lex Luthor."
+}
